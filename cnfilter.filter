@@ -42,8 +42,11 @@ FILTER: 163musicappsuck Replace restrictedCopyright":[5002,5003,5001], to [],
 s|"restrictedCopyright":\[.*\],|"restrictedCopyright":[],|
 s|"status":\-1,|"status":0,|g
 s|"status":1,|"status":0,|g
+<<<<<<< HEAD
 s|"fee":1,|"fee":0,|g
 s|"st":\-1,|"st":0,|g
+=======
+>>>>>>> origin/master
 
 FILTER: xiamimusicsuck Replace play_authority":0 with play_authority":1
 s|play_authority":0|play_authority":1|g
