@@ -3,6 +3,7 @@
 192.241.222.103  v2.tudou.com
 192.241.222.103  www.tudou.com
 192.241.222.103  s.plcloud.music.qq.com
+192.241.222.103  i.y.qq.com
 192.241.222.103  hot.vrs.sohu.com
 192.241.222.103  live.tv.sohu.com
 192.241.222.103  pad.tv.sohu.com
@@ -23,6 +24,7 @@
 192.241.222.103  bobo.video.qq.com
 192.241.222.103  flvs.video.qq.com
 192.241.222.103  bkvv.video.qq.com
+192.241.222.103  info.zb.qq.com
 192.241.222.103  geo.js.kankan.xunlei.com
 192.241.222.103  web-play.pptv.com
 192.241.222.103  web-play.pplive.cn
@@ -43,6 +45,8 @@
 192.241.222.103  www.yinyuetai.com
 192.241.222.103  api.letv.com
 192.241.222.103  live.gslb.letv.com
+192.241.222.103  static.itv.letv.com
+192.241.222.103  v.api.hunantv.com
 192.241.222.103  gridsum-vd.cntv.cn
 192.241.222.103  ip.apps.cntv.cn
 192.241.222.103  vdn.live.cntv.cn
@@ -62,6 +66,7 @@
 192.241.222.103  iface2.iqiyi.com
 192.241.222.103  cache.m.iqiyi.com
 192.241.222.103  m.letv.com
+192.241.222.103  interface.bilibili.com
 192.241.222.103  dynamic.app.m.letv.com
 192.241.222.103  dynamic.meizi.app.m.letv.com
 192.241.222.103  dynamic.search.app.m.letv.com
@@ -72,6 +77,7 @@
 192.241.222.103  3g.music.qq.com
 192.241.222.103  mqqplayer.3g.qq.com
 192.241.222.103  proxy.music.qq.com
+192.241.222.103  proxymc.qq.com
 192.241.222.103  ip2.kugou.com
 192.241.222.103  ip.kugou.com
 192.241.222.103  client.api.ttpod.com
@@ -89,6 +95,8 @@
 192.241.222.103  tms.is.ysten.com
 192.241.222.103  internal.check.duokanbox.com
 
+#192.241.222.103  k.youku.com
+#192.241.222.103  f.youku.com
 192.241.222.103  vdo.mobile.tvb.com
 58.241.28.216  www.dongting.com
 #58.215.179.68  www.dongting.com

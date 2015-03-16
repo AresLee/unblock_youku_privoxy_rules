@@ -23,11 +23,12 @@ FILTER: bdmusicsuck Replace mbox.isForeign = "1"; with mbox.isForeign = "";
 s|isForeign = "1";|isForeign = "";|ig
 
 FILTER: 163musicsuck Replace Copyright codes
-s|var GCopyrights = \[.*\];|var GCopyrights = [];|U
+s|var GCopyrights = \[.*\];|var GCopyrights = [];|Ug
 s|var GRestrictive = true;|var GRestrictive = false;|
 s|var tmp_restrictive = isRestrictive\(x\)|var tmp_restrictive = false|
 s|data-res-copyright="0"|data-res-copyright="1"|g
 s|data-copyright="0"|data-copyright="1"|g
+#s|copyright="0"|copyright="1"|g
 s|li class="js-dis"|li onmouseover="this.className='z-hvr'" onmouseout="this.className=''"|g
 s|class="(.*) js-dis">|class="$1">|g
 
@@ -39,6 +40,10 @@ s|"overseaip":1|"overseaip":0|g
 
 FILTER: 163musicappsuck Replace restrictedCopyright":[5002,5003,5001], to [],
 s|"restrictedCopyright":\[.*\],|"restrictedCopyright":[],|
+s|"status":\-1,|"status":0,|g
+s|"status":1,|"status":0,|g
+s|"fee":1,|"fee":0,|g
+s|"st":\-1,|"st":0,|g
 
 FILTER: xiamimusicsuck Replace play_authority":0 with play_authority":1
 s|play_authority":0|play_authority":1|g

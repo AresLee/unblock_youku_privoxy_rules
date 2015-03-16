@@ -3,6 +3,7 @@
 2001:470:832e:1024:6969:5269::1  v2.tudou.com
 2001:470:832e:1024:6969:5269::1  www.tudou.com
 2001:470:832e:1024:6969:5269::1  s.plcloud.music.qq.com
+2001:470:832e:1024:6969:5269::1  i.y.qq.com
 2001:470:832e:1024:6969:5269::1  hot.vrs.sohu.com
 2001:470:832e:1024:6969:5269::1  live.tv.sohu.com
 2001:470:832e:1024:6969:5269::1  pad.tv.sohu.com
@@ -23,6 +24,7 @@
 2001:470:832e:1024:6969:5269::1  bobo.video.qq.com
 2001:470:832e:1024:6969:5269::1  flvs.video.qq.com
 2001:470:832e:1024:6969:5269::1  bkvv.video.qq.com
+2001:470:832e:1024:6969:5269::1  info.zb.qq.com
 2001:470:832e:1024:6969:5269::1  geo.js.kankan.xunlei.com
 2001:470:832e:1024:6969:5269::1  web-play.pptv.com
 2001:470:832e:1024:6969:5269::1  web-play.pplive.cn
@@ -43,6 +45,8 @@
 2001:470:832e:1024:6969:5269::1  www.yinyuetai.com
 2001:470:832e:1024:6969:5269::1  api.letv.com
 2001:470:832e:1024:6969:5269::1  live.gslb.letv.com
+2001:470:832e:1024:6969:5269::1  static.itv.letv.com
+2001:470:832e:1024:6969:5269::1  v.api.hunantv.com
 2001:470:832e:1024:6969:5269::1  gridsum-vd.cntv.cn
 2001:470:832e:1024:6969:5269::1  ip.apps.cntv.cn
 2001:470:832e:1024:6969:5269::1  vdn.live.cntv.cn
@@ -62,6 +66,7 @@
 2001:470:832e:1024:6969:5269::1  iface2.iqiyi.com
 2001:470:832e:1024:6969:5269::1  cache.m.iqiyi.com
 2001:470:832e:1024:6969:5269::1  m.letv.com
+2001:470:832e:1024:6969:5269::1  interface.bilibili.com
 2001:470:832e:1024:6969:5269::1  dynamic.app.m.letv.com
 2001:470:832e:1024:6969:5269::1  dynamic.meizi.app.m.letv.com
 2001:470:832e:1024:6969:5269::1  dynamic.search.app.m.letv.com
@@ -72,6 +77,7 @@
 2001:470:832e:1024:6969:5269::1  3g.music.qq.com
 2001:470:832e:1024:6969:5269::1  mqqplayer.3g.qq.com
 2001:470:832e:1024:6969:5269::1  proxy.music.qq.com
+2001:470:832e:1024:6969:5269::1  proxymc.qq.com
 2001:470:832e:1024:6969:5269::1  ip2.kugou.com
 2001:470:832e:1024:6969:5269::1  ip.kugou.com
 2001:470:832e:1024:6969:5269::1  client.api.ttpod.com
@@ -89,6 +95,8 @@
 2001:470:832e:1024:6969:5269::1  tms.is.ysten.com
 2001:470:832e:1024:6969:5269::1  internal.check.duokanbox.com
 
+#2001:470:832e:1024:6969:5269::1  k.youku.com
+#2001:470:832e:1024:6969:5269::1  f.youku.com
 2001:470:832e:1024:6969:5269::1  vdo.mobile.tvb.com
 #58.241.28.216  www.dongting.com
 #58.215.179.68  www.dongting.com
