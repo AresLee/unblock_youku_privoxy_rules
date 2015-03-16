@@ -67,11 +67,8 @@
 ~api.letv.com
 ~static.itv.letv.com
 ~live.gslb.letv.com
-<<<<<<< HEAD
 ~v.api.hunantv.com
-=======
 ~static.itv.letv.com
->>>>>>> origin/master
 ~gridsum-vd.cntv.cn
 ~ip.apps.cntv.cn
 ~vdn.live.cntv.cn
@@ -92,11 +89,8 @@
 ~cache.m.iqiyi.com
 ~m.letv.com
 ~interface.bilibili.com
-<<<<<<< HEAD
 ~api.bilibili.com
 ~www.bilibili.com
-=======
->>>>>>> origin/master
 ~dynamic.app.m.letv.com
 ~dynamic.meizi.app.m.letv.com
 ~dynamic.search.app.m.letv.com
